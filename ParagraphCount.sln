@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParagraphCount", "ParagraphCount\ParagraphCount.csproj", "{2B5B9273-07E0-48F8-9D81-785EC4A114C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParagraphCounterTests", "ParagraphCounterTests\ParagraphCounterTests.csproj", "{B7C98A4E-5D08-4D74-A8ED-6DD93E339875}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B5B9273-07E0-48F8-9D81-785EC4A114C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B5B9273-07E0-48F8-9D81-785EC4A114C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B5B9273-07E0-48F8-9D81-785EC4A114C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B5B9273-07E0-48F8-9D81-785EC4A114C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7C98A4E-5D08-4D74-A8ED-6DD93E339875}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7C98A4E-5D08-4D74-A8ED-6DD93E339875}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7C98A4E-5D08-4D74-A8ED-6DD93E339875}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7C98A4E-5D08-4D74-A8ED-6DD93E339875}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9279EAB6-5888-4CFF-A150-4D1113452228}
+	EndGlobalSection
+EndGlobal
